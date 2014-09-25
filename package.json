@@ -1,0 +1,26 @@
+{
+  "name": "tronny",
+  "version": "0.1.0",
+  "description": "tronny",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/developit/tronny.git"
+  },
+  "author": "Jason Miller <jason@developit.ca>",
+  "license": "Closed-Source",
+  "dependencies": {
+    "express": "~4.3.2",
+    "compression": "^1.0.2",
+    "serve-static": "^1.2.0"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/developit/tronny/issues"
+  },
+  "homepage": "https://github.com/developit/tronny"
+}
