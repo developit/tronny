@@ -14,7 +14,7 @@
   "author": "Jason Miller <jason@developit.ca>",
   "license": "Closed-Source",
   "dependencies": {
-    "express": "~4.3.2",
+    "express": "~4.15.2",
     "compression": "^1.0.2",
     "serve-static": "^1.2.0"
   },
